@@ -1,6 +1,6 @@
 # Predicting-Climate-with-Machine-Learning-
 
-Introduction
+Introduction: 
 This project aims to detect and analyze climate change patterns using machine learning techniques, specifically rigid regression. The project utilizes historical climate data to train a model that can predict future climate trends and detect significant changes indicative of climate change.
 
 To get started with this project, follow these steps:
