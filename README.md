@@ -23,8 +23,7 @@ Model Training: The model is trained using rigid regression, a machine learning 
 Results: The trained model can be used to predict future climate trends and detect significant changes indicative of climate change. Evaluation metrics such as Mean Squared Error (MSE) and R-squared (R2) are used to assess the performance of the model.
 
 Author and Developer:
-1. Akshat Gupta (akshatg989@gmail.com)
-2. Preeti (preeti06moni@gmail.com)
+ * Akshat Gupta (akshatg989@gmail.com)
 
 
 Contact: For any questions or inquiries about this project, please contact Akshat Gupta (akshatg989@gmail.com).
